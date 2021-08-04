@@ -1,0 +1,12 @@
+PNR         : BC_20211029_104
+Tain No     : 1005
+Train Name  : Brindavan Express
+From        : Bangalore
+To          : Chennai
+Travel Date : 29/10/2021
+
+Passengers :
+Name	Age	Gender	Fare
+Radhika	22	F	750.0
+Rajesh	45	M	1000.0
+Total Price : 1750.0

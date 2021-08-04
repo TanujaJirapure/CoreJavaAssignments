@@ -1,0 +1,11 @@
+PNR         : MB_20210925_101
+Tain No     : 1004
+Train Name  : Udyan Express
+From        : Mumbai
+To          : Bangalore
+Travel Date : 25/09/2021
+
+Passengers :
+Name	Age	Gender	Fare
+ritu	23	F	1125.0
+Total Price   : 1125.0

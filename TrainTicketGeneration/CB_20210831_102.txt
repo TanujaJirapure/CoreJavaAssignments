@@ -1,0 +1,11 @@
+PNR         : CB_20210831_102
+Tain No     : 1006
+Train Name  : Brindavan Express
+From        : Chennai
+To          : Bangalore
+Travel Date : 31/08/2021
+
+Passengers :
+Name	Age	Gender	Fare
+Ross	31	M	r%.2f1000.0
+Total Price : %.2f750.0
